@@ -1,0 +1,6 @@
+For building a module oriented project,you can use the following command.
+
+ng g module page-not-found --route page-not-found --module app.module
+
+* On the above example we are creating a page-not-found module which includes a routing module that is connected
+ it with the app module.
